@@ -267,7 +267,7 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For issues or questions, please contact: support@hireme.com
+For issues or questions, please contact: saurabh.kumar712731@gmail.com
 
 ---
 
